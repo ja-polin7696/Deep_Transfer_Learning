@@ -4,5 +4,4 @@ A PyTorch implementation for [Adversarial Discriminative Domain Adaptation](http
 
 ## Result
 
-Domain Adaptation
->>> 97.6% <<<
+Domain Adaptation --> 97.6% 
